@@ -39,4 +39,4 @@ It is a personal project for me as I need to turn on wireless debugging every da
 
 ### Download Apk
 
-You can download the latest version of the app from the [Release v1.1](https://github.com/A-man404/Devs_Menu/releases/tag/v1.1).
+You can download the latest version of the app from the [Release v1.1](https://github.com/A-man404/Devs-Menu/releases/tag/v1.1).
