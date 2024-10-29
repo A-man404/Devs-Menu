@@ -34,7 +34,7 @@ It is a personal project for me as I need to turn on wireless debugging every da
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/A-man404/Devs_Menu.git
+   git clone https://github.com/A-man404/Devs-Menu.git
 
 
 ### Download Apk
